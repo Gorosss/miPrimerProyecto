@@ -1,2 +1,3 @@
 Conocimientos previos:
     - Js, html y css
+    - Php, Python
